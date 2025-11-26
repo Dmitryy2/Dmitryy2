@@ -3,7 +3,7 @@
 
 ## About me
 
-I`m developing weapon mechanics.
+I`m ❤️ developing weapon mechanics.
 
 :computer: Studying to be a programmer.
 
