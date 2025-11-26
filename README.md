@@ -1,7 +1,7 @@
-Heder 
+#Heder 
 
-About me
+##About me
 
-Languages and tools
+###Languages and tools
 
-Follow me
+####Follow me
