@@ -7,7 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/C%23-%23591bf7?style=flat&logo=sharp&logoColor=%239c1cff)
 ![Static Badge](https://img.shields.io/badge/Java-%23F7DF1E?style=flat&logo=java&logoColor=%23F7DF1E)
-
+![Static Badge](https://img.shields.io/badge/Java-%23FBBA00?style=flat)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=434fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
