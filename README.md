@@ -1,4 +1,4 @@
-# Heder  
+# Hi, I`m Dmitriy <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
 <img src="https://github.com/Dmitryy2/Dmitryy2/blob/main/assets/prfilm1.jpg" width="100%">
 
 ## About me
