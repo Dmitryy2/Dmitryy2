@@ -7,7 +7,7 @@ I`m ❤️ developing weapon mechanics.
 
 :computer: Studying to be a programmer.
 
-I focus on Unreal engine/ C++ development.
+<img src="https://github.com/Dmitryy2/Dmitryy2/blob/main/assets/icotank.png" width="100%"> I focus on Unreal engine/ C++ development.
 
 :boom::gun::weapon: I love the history of weapons and world wars.
 
