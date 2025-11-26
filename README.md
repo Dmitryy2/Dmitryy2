@@ -9,7 +9,6 @@
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity&logoColor=FFFFFF)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000?&logo=Unreal-Engine&logoColor=FFFFFF)
 
-![Static Badge](https://img.shields.io/badge/Java-%23F7DF1E?style=flat&logo=java&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Java-%23FBBA00?style=flat)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
