@@ -3,6 +3,8 @@
 
 ## About me
 
+
+
 ## Languages and tools
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/C%23-%23591bf7?style=flat&logo=sharp&logoColor=%239c1cff)
@@ -20,9 +22,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-
-## ⚡ Technologies
 
 
 Follow me
